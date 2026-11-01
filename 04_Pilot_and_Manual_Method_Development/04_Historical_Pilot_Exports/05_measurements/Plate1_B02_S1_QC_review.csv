@@ -1,0 +1,2 @@
+plate,well,site,n_detected,objects_touching_border_approx,objects_area_below_100_px2,all_objects_morphology_unvalidated,notes
+Week1_22123,B02,1,238,24,15,True,User confirmed Watershed applied before Analyze Particles; original filename retaining BeforeWatershed is not evidence otherwise. Perimeter/circularity/solidity from 8-bit mask; mean=255 is binary intensity only.

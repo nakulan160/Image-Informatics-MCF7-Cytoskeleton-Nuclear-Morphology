@@ -1,0 +1,11 @@
+Dataset: BBBC021, Week1_22141, B05, site_1, Cytochalasin B.
+Screenshots are user-supplied; the labels identify ROIs, not validated nuclei.
+
+Qualitative preliminary review:
+- Isolated objects have plausible nuclear boundaries.
+- Dense aggregates at center/right and lower edge require manual inspection for undersegmentation/oversegmentation.
+- Several tiny ROIs and irregular fluorescent fragments should be classified as uncertain until assessed on the original 16-bit image.
+- Objects at the image border should not enter final shape summaries.
+- These screenshots alone cannot establish a percentage segmentation accuracy or biological mechanisms.
+
+Recommended next: inspect same three views for Taxol (D05, site 1) and DMSO (B02, site 1) from Plate Week1_22141, using identical Fiji processing rules.

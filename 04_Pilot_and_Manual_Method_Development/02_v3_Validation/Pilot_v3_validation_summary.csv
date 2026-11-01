@@ -1,0 +1,2 @@
+field,detected_objects,pass_all_auto_flags,fail_any_flag,ring_near_image_edge,object_area_below_100px2,ring_near_other_nucleus,manual_reference_roi_index,manual_reference_qc_pass
+Week1_22123/B02/site_1,234,87,147,11,28,141,88,0

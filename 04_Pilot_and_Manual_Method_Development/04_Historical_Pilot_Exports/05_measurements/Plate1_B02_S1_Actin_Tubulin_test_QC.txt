@@ -1,0 +1,5 @@
+Oct 24 2026: One test perinuclear ring on Plate1 B02 site1 measured on original 16-bit Tubulin and Actin.
+Paired CSV contains both rows. Same ring based on identical Area=1122 px2, centroid X=1037.004/Y=412.257 and bounding box (1012,385,50,54).
+Tubulin mean=5775.586 raw AU, Actin mean=2460.078 raw AU.
+Channel intensities must NOT be directly interpreted as relative protein amounts or a drug effect. No background correction, inner-versus-outer contrast, or replicate-level analysis has yet been performed.
+ROI visual QC to confirm no interference from neighbors before batch extraction.

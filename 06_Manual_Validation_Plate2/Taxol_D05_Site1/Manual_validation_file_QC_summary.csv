@@ -1,0 +1,3 @@
+Condition,Detected_ROIs,Below_100_px2,Mean_circularity,Mean_solidity,Note
+Taxol (D05),66,22,0.7711398333333332,0.8933569393939393,"Manual Fiji validation field, not independent treatment-wide biological result"
+Cytochalasin B (B05),129,16,0.7536448604651163,0.911783519379845,From appended prior Results rows; confirm matches same B05 validation field

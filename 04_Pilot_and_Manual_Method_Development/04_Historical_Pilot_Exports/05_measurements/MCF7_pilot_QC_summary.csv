@@ -1,0 +1,10 @@
+Metric,Value,Notes
+Total detected nuclear objects,234,One DMSO field; not biological replicates
+Small objects (<100 px²),28,Counts may overlap between exclusion reasons
+Rings too close to image boundary,11,Counts may overlap between exclusion reasons
+Ring overlaps other segmented nuclear regions,141,Counts may overlap between exclusion reasons
+Pass all automatic screening flags,87,Counts may overlap between exclusion reasons
+Actin ratio median (screened nuclei),0.994,Exploratory; not biological treatment effect
+Tubulin ratio median (screened nuclei),1.871,Exploratory; not biological treatment effect
+Actin background p10,608,Gray levels; one field
+Tubulin background p10,1056,Gray levels; one field

@@ -1,0 +1,4 @@
+condition,fields,objects,morphology_screen_pass,strict_ring_QC_pass,strict_ring_pass_percent,n_plates,n_wells
+DMSO,24,5678,4718,1694,29.83,3,6
+Cytochalasin_B,12,1497,1132,139,9.29,3,3
+Taxol,12,1260,634,134,10.63,3,3

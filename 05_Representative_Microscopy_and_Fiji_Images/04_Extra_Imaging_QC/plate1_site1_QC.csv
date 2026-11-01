@@ -1,0 +1,4 @@
+plate,well,site,treatment,detected,passed_qc,smaller_than_100px,neighbor_mask_overlap_flag,near_edge_flag,qc_rate_pct
+Week1_22123,B02,1,DMSO,234,87,28,141,11,37.2
+Week1_22123,B05,1,Cytochalasin B,149,9,23,139,9,6.0
+Week1_22123,D05,1,Taxol,177,10,97,167,0,5.6

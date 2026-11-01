@@ -1,0 +1,4 @@
+treatment,plate,well,site,detected_objects,objects_area_below_100_px2,median_area_px2,mean_circularity_unfiltered,mean_solidity_unfiltered,interpretation
+DMSO,Week1_22141,B02,site_1,333,33,843.0,0.8257,0.9445,single field; detected objects not verified intact nuclei; not a treatment-effect estimate
+Cytochalasin B,Week1_22141,B05,site_1,129,16,511.0,0.7536,0.9118,single field; detected objects not verified intact nuclei; not a treatment-effect estimate
+Taxol,Week1_22141,D05,site_1,66,22,411.5,0.7711,0.8934,single field; detected objects not verified intact nuclei; not a treatment-effect estimate

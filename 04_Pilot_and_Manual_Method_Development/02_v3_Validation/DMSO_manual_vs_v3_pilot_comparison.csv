@@ -1,0 +1,9 @@
+Metric,Manual,Automated v3,Percent difference
+F-actin inner mean raw,2460.078,2448.58,-0.46738355450518426
+F-actin outer mean raw,2612.188,2599.689,-0.4784877658116587
+F-actin corrected I/O ratio,0.925,0.92413,-0.09405405405405809
+Tubulin inner mean raw,5775.586,6048.446,4.724369094322197
+Tubulin outer mean raw,4048.455,4144.419,2.370385739745161
+Tubulin corrected I/O ratio,1.578,1.616506,2.440177439797207
+Inner ring area (px^2),1122.0,1076.0,-4.09982174688057
+Outer ring area (px^2),1513.0,1490.0,-1.520158625247852

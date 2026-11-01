@@ -1,0 +1,3 @@
+plate,well,site,n_nuclei,channel,inner_px,outer_px,inner_mean_raw,outer_mean_raw,mean_background_3rois,inner_mean_corrected,outer_mean_corrected,inner_over_outer_corrected,note
+Week1_22123,B02,1,1,Actin,8,16,2460.078,2612.188,591.56,1868.518,2020.628,0.924721,One nucleus; QC/pixel scale pending; not a treatment result
+Week1_22123,B02,1,1,Tubulin,8,16,5775.586,4048.455,1059.386667,4716.199333,2989.068333,1.577816,One nucleus; QC/pixel scale pending; not a treatment result
